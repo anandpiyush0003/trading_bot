@@ -1,0 +1,1 @@
+2026-07-01 19:18:35 | INFO     | trading_bot | DRY RUN enabled: order will be built and validated but not sent. symbol=BTCUSDT | side=BUY | type=MARKET | quantity=0.01
